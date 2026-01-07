@@ -44,6 +44,8 @@ SQL Query Document - [Document](./SQL_Query_Document.pdf)
 
 3.CSV Dataset – [Dataset](./Car_Service_Bookings.csv)
 
+4. Problem Statement - [Problem Statement](./Problem_Statements.jpeg)
+
 🔹 **Project Highlights**
 
 1.End-to-end data analytics workflow: SQL querying → data validation → Power BI visualization
